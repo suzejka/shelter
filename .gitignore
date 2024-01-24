@@ -152,6 +152,16 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+optuna.db
+credentials.txt
+
+#ignore whole folder dataset
+dataset/
+files_for_analysis/
+mlartifacts/
+mlruns/
+
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
